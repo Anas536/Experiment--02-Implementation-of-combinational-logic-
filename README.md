@@ -1,5 +1,5 @@
-### Name:Mohamed Anas O.I
-### Registration:23008005
+### Name : Mohamed Anas O.I
+### Registration No :23008005
 
 # Experiment 02     Implementation of combinational logic
 
